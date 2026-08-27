@@ -1,0 +1,27 @@
+# Vivado generated output
+# Keep only the reproducible Vivado project file; caches/runs are disposable.
+vivado_*/
+!vivado_aes256_genesys_zu5ev/
+vivado_aes256_genesys_zu5ev/*
+!vivado_aes256_genesys_zu5ev/aes256_genesys_zu5ev.xpr
+.Xil/
+*.jou
+*.log
+*.str
+
+# Simulation generated output
+xsim_*/
+*.wdb
+*.vcd
+*.wlf
+
+# Quartus/ModelSim generated output (legacy)
+work/
+db/
+incremental_db/
+output_files/
+simulation/
+
+# Python cache
+__pycache__/
+*.pyc
